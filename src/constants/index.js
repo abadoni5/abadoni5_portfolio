@@ -10,14 +10,13 @@ import {
     reactjs,
     redux,
     tailwind,
-    nodejs,
     git,
     figma,
-    starbucks,
-    tesla,
-    shopify,
     moovy,
     threejs,
+    diversea,
+    kn, 
+    moovi,
 } from "../assets";
 
 export const navLinks = [
@@ -101,19 +100,19 @@ const experiences = [
     {
         title: "Frontend Developer",
         company_name: "DiverSea",
-        icon: shopify,
+        icon: diversea,
         iconBg: "#383E56",
         date: "August 2022",
         points: [
-            "Developed as a hackathon project",
-            "Working on design and on the frontend of the website",
-            "Presenting and pitching the project to the judges with the fellow team members",
+            "Developed as a hackathon project.",
+            "Working on design and on the frontend of the website.",
+            "Presenting and pitching the project to the judges with the fellow team members.",
         ],
     },
     {
         title: "Web Developer",
         company_name: "K.N. Holidays",
-        icon: tesla,
+        icon: kn,
         iconBg: "#E6DEDD",
         date: "May 2023",
         points: [
@@ -126,14 +125,14 @@ const experiences = [
     {
         title: "React Developer",
         company_name: "Moovy",
-        icon: starbucks,
+        icon: moovi,
         iconBg: "#383E56",
         date: "June 2023",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Implementing responsive design and ensuring cross-browser compatibility.",
             "Fixing bugs and performing updates when necessary.",
-            "Created as a personal project"
+            "Created as a personal project."
         ],
     }
 ];
