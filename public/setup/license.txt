@@ -1,0 +1,11 @@
+Model Information:
+* title:	Work Table Futuristic
+* source:	https://sketchfab.com/3d-models/work-table-futuristic-cbabd33e30c94d239dac811c42be583d
+* author:	igor.tesV (https://sketchfab.com/igor.tesV)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Work Table Futuristic" (https://sketchfab.com/3d-models/work-table-futuristic-cbabd33e30c94d239dac811c42be583d) by igor.tesV (https://sketchfab.com/igor.tesV) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
