@@ -9,6 +9,7 @@ const App = () => {
         <div className='bg-hero-pattern bg-cover bg-no-repeat bg-center'>
           <Navbar />
           <Hero />
+          <StarsCanvas/>
         </div>
         <About />
         <Experience />
